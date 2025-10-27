@@ -19,7 +19,7 @@ local Config = {
     AimbotFOVEnabled = true,
     FlyEnabled = false,
     FlySpeed = 50,
-    FlyToggleKey = Enum.KeyCode.E,
+    FlyToggleKey = Enum.KeyCode.P,
     FlyHoldToAscend = Enum.KeyCode.Space,
     FlyHoldToDescend = Enum.KeyCode.LeftShift,
     SpeedEnabled = false,
@@ -393,7 +393,7 @@ info.BackgroundTransparency = 1
 info.Font = Enum.Font.Gotham
 info.TextSize = 11
 info.TextColor3 = themeColor("Text")
-info.Text = "Aperte F1 para abrir/fechar o menu • Pressione E para ativar/desativar Fly\nFeito por moonzaybgkBR — aperte T para teleportar, discord: https://discord.gg/CMsKa6BXAH" 
+info.Text = "Aperte F1 para abrir/fechar o menu • Pressione P para ativar/desativar Fly\nFeito por moonzaybgkBR — aperte T para teleportar, discord: https://discord.gg/CMsKa6BXAH" 
 info.TextXAlignment = Enum.TextXAlignment.Left
 info.TextYAlignment = Enum.TextYAlignment.Top
 
